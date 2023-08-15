@@ -9,5 +9,6 @@ cd /var/www/html/
 wget https://github.com/kserge2001/school-site/archive/refs/heads/master.zip
 unzip master.zip
 mv school-site-master/* .
+yum install -y docker
 
 
